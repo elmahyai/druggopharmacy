@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ahmedelmahy/druggopharmacy/issues"
   },
-  "homepage": "https://github.com/ahmedelmahy/druggopharmacy#readme"
+  "homepage": "https://github.com/ahmedelmahy/druggopharmacy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

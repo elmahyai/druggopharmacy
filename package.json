@@ -1,0 +1,19 @@
+{
+  "name": "druggopharmacy",
+  "version": "1.0.0",
+  "description": "druggopharmacy website a mern application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedelmahy/druggopharmacy.git"
+  },
+  "author": "Ahmed Elmahy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedelmahy/druggopharmacy/issues"
+  },
+  "homepage": "https://github.com/ahmedelmahy/druggopharmacy#readme"
+}
